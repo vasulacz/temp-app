@@ -46,6 +46,11 @@ export default {
           title: 'Only Test component',
           icon: 'fa fa-table'
         },
+        {
+          href: '/photo',
+          title: 'Photo',
+          icon: 'fa fa-image'
+        },
       ],
       collapsed: false
     }
